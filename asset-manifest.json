@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aires/static/css/main.073c9b0a.css",
+    "main.js": "/aires/static/js/main.d1546266.js",
+    "static/js/787.a91eb964.chunk.js": "/aires/static/js/787.a91eb964.chunk.js",
+    "static/media/logo.svg": "/aires/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aires/index.html",
+    "main.073c9b0a.css.map": "/aires/static/css/main.073c9b0a.css.map",
+    "main.d1546266.js.map": "/aires/static/js/main.d1546266.js.map",
+    "787.a91eb964.chunk.js.map": "/aires/static/js/787.a91eb964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d1546266.js"
+  ]
+}
